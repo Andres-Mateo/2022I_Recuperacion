@@ -17,7 +17,12 @@
 ### Graphical Installer
 ##  Peso del programa 594 MB
 
+#### Biopython 
+#### version 1.79
+
 ## Librerias
-### Bio
-### re
-### os
+#### Bio
+#### re
+#### os
+#### mathplot
+#### seaborn
