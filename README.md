@@ -4,6 +4,7 @@
 ### Andres Benalcazar
 ### CI 1727757807
 ### Biotecnologia
+### sexto semestre
 
 ## Datos del ordenadorr
 ### Procesador AMDA9-9420"
@@ -15,3 +16,8 @@
 ### 64-Bit 
 ### Graphical Installer
 ##  Peso del programa 594 MB
+
+## Librerias
+### Bio
+### re
+### os
